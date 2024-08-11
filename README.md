@@ -4,7 +4,7 @@
 
 Exercício focado em estilização CSS.
 
-![image](https://github.com/Thaiza-Santos/first-project-dio/assets/images/pt1)
-![image](https://github.com/Thaiza-Santos/first-project-dio/assets/images/pt2)
-![image](https://github.com/Thaiza-Santos/first-project-dio/assets/images/pt3)
-![image](https://github.com/Thaiza-Santos/first-project-dio/assets/images/pt4)
+<img src="/assets/images/pt1.png" alt="Landing Page">
+<img src="/assets/images/pt2.png" alt="Landing Page">
+<img src="/assets/images/pt3.png" alt="Landing Page">
+<img src="/assets/images/pt4.png" alt="Landing Page">
